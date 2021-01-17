@@ -118,7 +118,7 @@ export default {
 </script>
 <style  scoped>
 .homeImage {
-  background-image: url("https://cdn150.picsart.com/232635544019202.jpg?type=webp&to=min&r=1024");
+  background-image: url("https://upl.stack.com/wp-content/uploads/2020/04/14140000/Multiple.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 100vh;
