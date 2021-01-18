@@ -59,12 +59,6 @@
                 </b-button
               >
 
-                  <b-button
-                    class="left"
-                    variant="danger" v-if="team.teamCreator === loadedData.name"
-                    @click="deleteTeam(team.id, loadedData.name, loadedData.email)"
-                    >{{ $t("deleteTeam") }}</b-button>   
-
                 </b-list-group-item>
 
                 <b-list-group-item
